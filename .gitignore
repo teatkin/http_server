@@ -1,3 +1,4 @@
 # Gitignore for http_server project
 .idea/
 cmake-build-debug/
+cmake-build-release/
